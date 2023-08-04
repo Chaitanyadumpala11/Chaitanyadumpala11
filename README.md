@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaitanyadumpala11
-- 👀 I’m interested in it sector.
+- 👀 I’m really interested to learn new things 
 - 🌱 I’m currently learning MySql
 
 
