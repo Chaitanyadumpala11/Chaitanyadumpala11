@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaitanyadumpala11
 - 👀 I’m really interested to learn new things 
-- 🌱 I’m currently learning MySql
+- 🌱 I’m currently learning Full Stack
 - 📫 How to reach me chaitanyadumpala2003@gmail.com
 
 <!---
